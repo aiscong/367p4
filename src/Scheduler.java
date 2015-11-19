@@ -186,6 +186,7 @@ public class Scheduler {
 				System.out.println("Unrecognized Command!");
 		}
 		in.close();
+		
 	}
 	
 	private static void printResourceList(List<Resource> list){
